@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=res_out Pin=P?-1
+Added Member To Class: ClassName=Sheet1 Member=Component P? header_in

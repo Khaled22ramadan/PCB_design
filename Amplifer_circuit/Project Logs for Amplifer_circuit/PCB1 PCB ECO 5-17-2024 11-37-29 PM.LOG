@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P? NewDesignator=input
+Change Component Designator: OldDesignator=P? NewDesignator=out
+Added Member To Class: ClassName=Sheet1 Member=Component input header_in
